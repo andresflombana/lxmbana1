@@ -37,8 +37,8 @@ Soy un estudiante apasionado con la programación. Mi objetivo es contribuir al 
 Actualmente, en conjunto a [Checho](https://www.instagram.com/cherxxo_7/) y [Carlos](https://www.instagram.com/_carlos_arcos_/), desarrollamos códigos a traves de Java, nuestra colaboración es indispensable para nuestro proceso de aprendizaje.
 
 ### Enlaces
-• [Facebook](https://www.instagram.com/lxmbana/)
-• [Instagram](https://www.facebook.com/lombana511?locale=es_LA)
+• [Instagram](https://www.instagram.com/lxmbana/)
+• [Facebook](https://www.facebook.com/lombana511?locale=es_LA)
 • [Linkedin](https://www.linkedin.com/in/andres-felipe-lombana-melo-30307b268/)
 
 ### Agradezco a mis compañeros de Universidad y a los docentes por su continuo apoyo y colaboración. Juntos vamos a crear un mundo mejor a través de la tecnología.
