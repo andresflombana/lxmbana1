@@ -41,6 +41,6 @@ Actualmente, en conjunto a [Checho](https://www.instagram.com/cherxxo_7/) y [Car
 • [Instagram](https://www.facebook.com/lombana511?locale=es_LA)
 • [Linkedin](https://www.linkedin.com/in/andres-felipe-lombana-melo-30307b268/)
 
-### Agradezco a mis compañeros de Universidad y a los docentes por su continuo apoyo y colaboración. Juntos, vamos a crear un mundo mejor a través de la tecnología.
+### Agradezco a mis compañeros de Universidad y a los docentes por su continuo apoyo y colaboración. Juntos vamos a crear un mundo mejor a través de la tecnología.
 
 [Set List de mi Música Favorita 🎵](https://youtube.com/playlist?list=PLTUrBrZqDtkyzYz3RKRcZNeUshhzu77Tj&si=8KYyOBZhVC7clXDq)
