@@ -6,11 +6,11 @@
 
 # Descripción del perfil
 
-Este repositorio sirve como mi perfil de desarrollador en GitHub, donde comparto mis experiencias, conocimientos y pasión por la programación. Como apasionado del mundo del desarrollo de software, estoy comprometido en aprender y crecer continuamente.
+Este repositorio sirve como mi perfil de desarrollador en GitHub, donde comparto mis experiencias, conocimientos y demás. Estoy aquí para aprender y crecer continuamente.
 
 ## Sobre Mí
 
-Soy un desarrollador apasionado con experiencia en diversas áreas de la programación. Mi objetivo es contribuir al mundo de la tecnología a través de la creación de soluciones innovadoras y la colaboración en proyectos de código abierto.
+Soy un estudiante apasionado con la programación. Mi objetivo es contribuir al mundo de la tecnología a través de la creación de soluciones innovadoras y la colaboración en proyectos de código abierto.
 
 ### Habilidades
 
@@ -34,14 +34,13 @@ Soy un desarrollador apasionado con experiencia en diversas áreas de la program
 
 ### Colaboración
 
-Estoy siempre abierto a oportunidades de colaboración en proyectos interesantes. Si tienes un proyecto emocionante o una idea en mente, ¡no dudes en contactarme!
+Actualmente, en conjunto a [Checho](https://www.instagram.com/cherxxo_7/) y [Carlos](https://www.instagram.com/_carlos_arcos_/), desarrollamos códigos a traves de Java, nuestra colaboración es indispensable para nuestro proceso de aprendizaje.
 
 ### Enlaces
-
 • [Facebook](https://www.instagram.com/lxmbana/)
 • [Instagram](https://www.facebook.com/lombana511?locale=es_LA)
 • [Linkedin](https://www.linkedin.com/in/andres-felipe-lombana-melo-30307b268/)
 
-## Agradezco a la comunidad de desarrolladores por su continuo apoyo y colaboración. Juntos, creamos un mundo mejor a través de la tecnología.
+### Agradezco a mis compañeros de Universidad y a los docentes por su continuo apoyo y colaboración. Juntos, vamos a crear un mundo mejor a través de la tecnología.
 
-[Mi Música Favorita 🎵](https://youtube.com/playlist?list=PLTUrBrZqDtkyzYz3RKRcZNeUshhzu77Tj&si=8KYyOBZhVC7clXDq)
+[Set List de mi Música Favorita 🎵](https://youtube.com/playlist?list=PLTUrBrZqDtkyzYz3RKRcZNeUshhzu77Tj&si=8KYyOBZhVC7clXDq)
