@@ -44,3 +44,7 @@ Actualmente, en conjunto a [Checho](https://www.instagram.com/cherxxo_7/) y [Car
 ### Agradezco a mis compañeros de Universidad y a los docentes por su continuo apoyo y colaboración. Juntos vamos a crear un mundo mejor a través de la tecnología.
 
 [Set List de mi Música Favorita 🎵](https://youtube.com/playlist?list=PLTUrBrZqDtkyzYz3RKRcZNeUshhzu77Tj&si=8KYyOBZhVC7clXDq)
+
+<p align="center">
+    <img src="https://pbs.twimg.com/media/E_Hp0WiWUAEp05t.jpg">
+</p>
