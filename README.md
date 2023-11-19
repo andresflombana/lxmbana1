@@ -1,7 +1,7 @@
 # **Andrés Lombana** 😎
 
 <p align="center">
-    <img src="https://png.pngtree.com/png-vector/20230903/ourmid/pngtree-man-wearing-jacket-hoodie-in-anonymous-hacker-theme-png-image_9949738.png">
+    <img src="https://media-bog2-1.cdn.whatsapp.net/v/t61.24694-24/397509109_1076850740007395_714530987878998452_n.jpg?ccb=11-4&oh=01_AdQy5a5blj0FylFi4U2m9DGemgy3hem1qCmtKv1E3gPyIA&oe=6567838E&_nc_sid=e6ed6c&_nc_cat=101">
 </p>
 
 # Descripción del perfil
