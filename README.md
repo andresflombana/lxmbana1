@@ -1,7 +1,7 @@
 # **Andrés Lombana**
 
 <p align="center">
-    <img src="https://pbs.twimg.com/media/EZhJveqWsAA_S6h.jpg" style="width: 60%;">
+    <img src="https://pbs.twimg.com/media/EZhJveqWsAA_S6h.jpg" style="width: 50%;">
 </p>
 
 # Descripción del perfil
@@ -39,7 +39,7 @@ Actualmente, en conjunto a [Sergio](https://www.instagram.com/cherxxo_7/), [Carl
 ### Enlaces
 • [Instagram](https://www.instagram.com/lxmbana/)
 • [Facebook](https://www.facebook.com/lombana511?locale=es_LA)
-• [Linkedin](https://www.linkedin.com/in/andres-felipe-lombana-melo-30307b268/)
+• [LinkedIn](https://www.linkedin.com/in/andres-felipe-lombana-melo-30307b268/)
 • [Perfil de Spotify 🎵](https://open.spotify.com/user/22p4dlvz5cxsr7s56z7ujdwfy?si=7Bw5a6YVSHObmy92KL8vAA)
 
 ### Agradezco a mis compañeros de Universidad y a los docentes por su continuo apoyo y colaboración. Juntos vamos a crear un mundo mejor a través de la tecnología.
