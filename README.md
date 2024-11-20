@@ -34,17 +34,16 @@ Soy un estudiante apasionado con la programación. Mi objetivo es contribuir al 
 
 ### Colaboración
 
-Actualmente, en conjunto a [Checho](https://www.instagram.com/cherxxo_7/) y [Carlos](https://www.instagram.com/_carlos_arcos_/), desarrollamos códigos a traves de Java, nuestra colaboración es indispensable para nuestro proceso de aprendizaje.
+Actualmente, en conjunto a [Sergio](https://www.instagram.com/cherxxo_7/), [Carlos](https://www.instagram.com/_carlos_arcos_/) y [Sebastián](https://www.instagram.com/nickfm.420), desarrollamos códigos a traves de Java, nuestra colaboración es indispensable para nuestro proceso de aprendizaje.
 
 ### Enlaces
 • [Instagram](https://www.instagram.com/lxmbana/)
 • [Facebook](https://www.facebook.com/lombana511?locale=es_LA)
 • [Linkedin](https://www.linkedin.com/in/andres-felipe-lombana-melo-30307b268/)
+• [Perfil de Spotify 🎵](https://open.spotify.com/user/22p4dlvz5cxsr7s56z7ujdwfy?si=7Bw5a6YVSHObmy92KL8vAA)
 
 ### Agradezco a mis compañeros de Universidad y a los docentes por su continuo apoyo y colaboración. Juntos vamos a crear un mundo mejor a través de la tecnología.
 
-[Set List de mi Música Favorita 🎵](https://youtube.com/playlist?list=PLTUrBrZqDtkyzYz3RKRcZNeUshhzu77Tj&si=8KYyOBZhVC7clXDq)
-
 <p align="center">
-    <img src="https://pbs.twimg.com/media/E_Hp0WiWUAEp05t.jpg">
+    <img src="https://pbs.twimg.com/media/E_Hp0WiWUAEp05t.jpg" style="width: 50%;">
 </p>
