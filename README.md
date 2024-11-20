@@ -1,7 +1,7 @@
 # **Andrés Lombana**
 
 <p align="center">
-    <img src="https://pbs.twimg.com/media/EZhJveqWsAA_S6h.jpg">
+    <img src="https://pbs.twimg.com/media/EZhJveqWsAA_S6h.jpg" style="width: 60%;">
 </p>
 
 # Descripción del perfil
