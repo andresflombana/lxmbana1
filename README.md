@@ -1,4 +1,4 @@
-# **Andrés Lombana** 😎
+# **Andrés Lombana**
 
 <p align="center">
     <img src="https://pbs.twimg.com/media/EZhJveqWsAA_S6h.jpg">
