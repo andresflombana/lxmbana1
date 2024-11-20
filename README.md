@@ -1,7 +1,7 @@
 # **Andrés Lombana** 😎
 
 <p align="center">
-    <img src="">
+    <img src="https://pbs.twimg.com/media/EZhJveqWsAA_S6h.jpg">
 </p>
 
 # Descripción del perfil
