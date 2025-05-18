@@ -43,7 +43,3 @@ Actualmente, en conjunto a [Sergio](https://www.instagram.com/cherxxo_7/), [Carl
 • [Perfil de Spotify 🎵](https://open.spotify.com/user/22p4dlvz5cxsr7s56z7ujdwfy?si=7Bw5a6YVSHObmy92KL8vAA)
 
 ### Agradezco a mis compañeros de Universidad y a los docentes por su continuo apoyo y colaboración. Juntos vamos a crear un mundo mejor a través de la tecnología.
-
-<p align="center">
-    <img src="https://pbs.twimg.com/media/E_Hp0WiWUAEp05t.jpg" style="width: 50%;">
-</p>
